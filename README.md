@@ -1,4 +1,4 @@
-# 🛋️ Luxury Furniture E-commerce: Full Stack Developer
+#  Luxury Furniture E-commerce: Full Stack Developer
 
 This project is a high-end e-commerce platform developed for a luxury furniture company. The system features a **Single Page Application (SPA)** architecture and a state management engine built entirely with **native JavaScript (ES6+)**, eliminating dependencies on external frameworks and optimizing performance.
 
@@ -11,7 +11,7 @@ This project is a high-end e-commerce platform developed for a luxury furniture 
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 Based on the repository's file organization:
 
@@ -22,7 +22,7 @@ Based on the repository's file organization:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **SPA Architecture:** Seamless navigation between sections (Home, Products, Cart) without page reloads.
 - **Persistent State Management:** Shopping cart linked to unique sessions using `localStorage`.
@@ -32,7 +32,7 @@ Based on the repository's file organization:
 
 ---
 
-## 🛠️ Technical Implementation (Highlights)
+##  Technical Implementation (Highlights)
 
 I designed the system focusing on two fundamental pillars of JavaScript:
 
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 
 
@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-## 🚀 Installation and Deployment
+##  Installation and Deployment
 
 ### Clone the repository
 
@@ -167,7 +167,7 @@ git clone https://github.com
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Developed by **Juan – Full Stack Developer**
 
